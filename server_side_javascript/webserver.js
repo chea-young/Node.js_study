@@ -1,5 +1,6 @@
 const http = require('http');
- 
+// http에 모듈을 담은 것, const는 한번 담으면 바꿀 수 없어서 http가 상수가 된다.
+//require는 모듈 return , 그래서 여기서는 http return
 const hostname = '127.0.0.1';
 const port = 1337;
 
