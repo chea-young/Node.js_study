@@ -1,5 +1,7 @@
 # Node.js
 
+### Web server
+- #### Django, PHP, node.js 는 사용자에게 보낼 데이터를 프로그램적으로 생성한다.
 ### Node.js
 - #### 다음과 같은 구조로 쌓아서 runtime을 다운 받고 javascipt를 수정해서 Node.js Application을 만들게 된다.
 <img src = "img\node.js-1.png"  alt = "1">
@@ -23,6 +25,9 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
 - 다른 사람의 모듈 사용하기
     - npm init (description만 사용하기) --> package.json이 생성
 
+
+#### 다음에 학습할 부분
+- https://www.youtube.com/watch?v=jlryXeiNt9o&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=7
 #### 참고 사이트
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm
     보고 따라서 공부하기!!
