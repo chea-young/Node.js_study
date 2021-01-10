@@ -27,7 +27,7 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
 
 
 #### 다음에 학습할 부분
-- https://www.youtube.com/watch?v=jlryXeiNt9o&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=7
+- https://www.youtube.com/watch?v=9vH3MeoQ_Gc&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=9
 #### 참고 사이트
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm
     보고 따라서 공부하기!!
