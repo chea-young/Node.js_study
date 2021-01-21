@@ -31,3 +31,4 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
 #### 참고 사이트
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm
     보고 따라서 공부하기!!
+- 
