@@ -36,8 +36,10 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
         - ?로 시작
         - 값과 값은 &를 이용
         - 값의 이름과 값은 =로 구분
+        
 #### 다음에 학습할 부분
 - https://www.youtube.com/watch?v=jlryXeiNt9o&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=7
 #### 참고 사이트
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm
     보고 따라서 공부하기!!
+- 
