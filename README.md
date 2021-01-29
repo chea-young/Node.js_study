@@ -7,7 +7,7 @@
 <img src = "img\node.js-1.png"  alt = "1">
 
 ### 실행하는 방법
-- cmd에서 'node js파일' 하면 실행된다.
+- #### cmd에서 'node js파일' 하면 실행된다.
 
 
 ### 인터넷의 동작 방법
@@ -25,7 +25,17 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
 - 다른 사람의 모듈 사용하기
     - npm init (description만 사용하기) --> package.json이 생성
 
-
+#### URL 
+<img src = "img\URL.png"  alt = "2">
+- URL를 이용해서 client에게 서로 다른 페이지를 만들어서 보여준다.
+    - protocol : 사용자가 서버에 접속할 떄 어떠한 방식으로 통신할 것인지
+    - host : 인터넷에 접속되어있는 각각의 컴퓨터
+    - port : 한대에 컴퓨터 안에 여러개의 서버가 존재하는데 이것을 구분시켜 주는 것 
+    - path : 컴퓨터 안에 있는 어느 directiory의 어떤 파일인지를 가리 킴
+    - query string : 이것을 변경하면 내가 읽고 싶은 정보를 웹서버에게 전달 가능
+        - ?로 시작
+        - 값과 값은 &를 이용
+        - 값의 이름과 값은 =로 구분
 #### 다음에 학습할 부분
 - https://www.youtube.com/watch?v=jlryXeiNt9o&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=7
 #### 참고 사이트
