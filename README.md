@@ -1,5 +1,18 @@
 # Node.js
 
+## 공부 순서
+1. 수업 소개
+2. 수업의 목적
+3. 설치
+4. 공부방법
+5. Node.js로 웹서버 만들기
+6. 7. 8. JavaScript 문법 
+9. URL의 이해
+10. URL을 통해서 입력된 값 사용하기
+11. App 제작 - 동적인 웹페이지 만들기
+12. Node.js의 파일 읽기 가능
+13. App 제작 - 파일을 이용해 본문 구현
+
 ### Web server
 - #### Django, PHP, node.js 는 사용자에게 보낼 데이터를 프로그램적으로 생성한다.
 ### Node.js
@@ -42,8 +55,8 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
 
 #### CRUD(Create Read Updata Delete)
 - 정보시스템 매커니즘으로 이 네가지가 정보를 다루는 핵심적인 키워드들이다.
-#### 다음에 학습할 부분 (13까지 하기)
-- https://www.youtube.com/watch?v=X0wfdOJzq_Y&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=17
+#### 다음에 학습할 부분 (18부터 하기)
+- https://www.youtube.com/watch?v=zPsRlbYKWhI&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=23
 #### 참고 사이트
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm
     보고 따라서 공부하기!!
