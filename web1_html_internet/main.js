@@ -3,7 +3,7 @@ var fs = require('fs');
 var url = require('url'); //'url'이라는 모듈을 사용할 것이라는 선언,  url이라는 변수를 사용할 것이다.
 
 var app = http.createServer(function(request,response){
-    var url = request.url; // id 값이 이것에게 반영이 된다.
+    var _url = request.url; // id 값이 이것에게 반영이 된다.
     var queryData = url.parse(_url, true).query; // 객체가 들어간다.
     console.log(queryData.id); // id의 값이 들어간다
     if(url == '/'){
