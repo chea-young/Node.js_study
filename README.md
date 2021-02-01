@@ -39,9 +39,11 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
         - 값의 이름과 값은 =로 구분
     <img src = "img\query.png"  alt = "3">
     - 이와 같은 주소로 사용자가 웹 애플리케이션에 접속을 했을 떄 id에 값(query)이 무엇이냐에 따라 사용자에게 적당한 컨텐츠를 보여준다
-        
-#### 다음에 학습할 부분
-- https://www.youtube.com/watch?v=jlryXeiNt9o&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=7
+
+#### CRUD(Create Read Updata Delete)
+- 정보시스템 매커니즘으로 이 네가지가 정보를 다루는 핵심적인 키워드들이다.
+#### 다음에 학습할 부분 (13까지 하기)
+- https://www.youtube.com/watch?v=X0wfdOJzq_Y&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=17
 #### 참고 사이트
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm
     보고 따라서 공부하기!!
