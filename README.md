@@ -16,6 +16,7 @@ webbrower(요청하는 쪽) -> 클라이언트,
 응답, 제공하는 쪽 -> 서버
 domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근하기 쉽게 만든 것)
 - 포트는 0 ~ 655535까지 존재
+- parse : 분석한다.
 
 #### NPM(Node Package Manager)
 - uglifyjs : 기계가 코드를 처리하는 데 필요한 필수적인 코드를 제외한 나머지 공백을 다 제거하는 단계의 코드를 만들어줌
@@ -36,6 +37,8 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
         - ?로 시작
         - 값과 값은 &를 이용
         - 값의 이름과 값은 =로 구분
+    <img src = "img\query.png"  alt = "3">
+    - 이와 같은 주소로 사용자가 웹 애플리케이션에 접속을 했을 떄 id에 값(query)이 무엇이냐에 따라 사용자에게 적당한 컨텐츠를 보여준다
         
 #### 다음에 학습할 부분
 - https://www.youtube.com/watch?v=jlryXeiNt9o&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=7
