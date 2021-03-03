@@ -1,15 +1,15 @@
 # Node.js
 
 ## 공부 순서
-1. 수업 소개
-2. 수업의 목적
-3. 설치
-4. 공부방법
-5. Node.js로 웹서버 만들기
-6. JavaScript 문법
-7. JavaScript 문법
-8. JavaScript 문법
-9. URL의 이해
+01. 수업 소개
+02. 수업의 목적
+03. 설치
+04. 공부방법
+05. Node.js로 웹서버 만들기
+06. JavaScript 문법
+07. JavaScript 문법
+08. JavaScript 문법
+09. URL의 이해
 10. URL을 통해서 입력된 값 사용하기
 11. App 제작 - 동적인 웹페이지 만들기
 12. Node.js의 파일 읽기 가능
