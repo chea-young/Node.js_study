@@ -1,19 +1,36 @@
 # Node.js
 
-## 공부 순서
-01. 수업 소개
-02. 수업의 목적
-03. 설치
-04. 공부방법
-05. Node.js로 웹서버 만들기
-06. JavaScript 문법
-07. JavaScript 문법
-08. JavaScript 문법
-09. URL의 이해
-10. URL을 통해서 입력된 값 사용하기
-11. App 제작 - 동적인 웹페이지 만들기
-12. Node.js의 파일 읽기 가능
-13. App 제작 - 파일을 이용해 본문 구현
+## 공부계획
+- 월,화 3-4 강의 공부하기
+
+## LIST
+
+00. Section00
+    01. 수업 소개
+    02. 수업의 목적
+01. Section01
+    03. 설치
+02. Section02
+    04. 공부방법
+    05. Node.js로 웹서버 만들기
+    06. URL의 이해
+    07. URL을 통해서 입력된 값 사용하기
+    08. App 제작 - 동적인 웹페이지 만들기
+    09. Node.js의 파일 읽기 가능
+    10. App 제작 - 파일을 이용해 본문 구현
+    11. Node JS 콘솔에서의 입력값 (Feb 8)
+    12. Not found 구현
+    13. 홈페이지 구현
+    14. Node.js에서 파일목록 알아내기
+
+03. Section03
+04. Section04
+05. Section05
+06. Section06
+07. Section07
+08. Section08
+
+
 
 ### Web server
 - #### Django, PHP, node.js 는 사용자에게 보낼 데이터를 프로그램적으로 생성한다.
@@ -59,7 +76,7 @@ domain과 일치하는 IP로 접속한다.(domain은 사람들이 쉽게 접근�
 #### CRUD(Create Read Updata Delete)
 - 정보시스템 매커니즘으로 이 네가지가 정보를 다루는 핵심적인 키워드들이다.
 
-#### 다음에 학습할 부분 (18부터 하기)
+#### 다음에 학습할 부분
 - https://www.youtube.com/watch?v=zPsRlbYKWhI&list=PLuHgQVnccGMA9QQX5wqj6ThK7t2tsGxjm&index=23
 -> https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%98%81%ED%99%94%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0#
 '따라하며 배우는 노드, 리액트 시리즈 - 영화 사이트 만들기' -> 보면서 더 익히기(이외에 챗봇 만들기 등도 있음)
