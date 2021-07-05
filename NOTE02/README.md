@@ -5,4 +5,4 @@
 - parament: 입력되는 형식
 - agrument: 형식에 맞게 입력한 값
 
-## 15 Not found 구현
+## 16 홈페이지 구현
