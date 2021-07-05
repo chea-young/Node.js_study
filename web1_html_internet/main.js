@@ -18,4 +18,5 @@ var app = http.createServer(function(request,response){
     response.end(queryData.id);
 
 });
+
 app.listen(3000); //localhost:3000 으로 webserver가 열린다.
